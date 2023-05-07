@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "558772611727",
+    "project_id": "rajztanfolyam-58809",
+    "storage_bucket": "rajztanfolyam-58809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558772611727:android:e80cfabb3b665fdf80defa",
+        "android_client_info": {
+          "package_name": "com.example.rajztanfolyam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558772611727-ei4vrr3g9627b828u0541uhom3ssuf70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ECXkcjUAK3isWz8ku5aMfq0Fj89ddys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558772611727-ei4vrr3g9627b828u0541uhom3ssuf70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558772611727:android:b369e327d59ed9d480defa",
+        "android_client_info": {
+          "package_name": "com.example.rajztanfolyam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558772611727-jjkkjj0gl6c0ahuvmh80hhuckefjn5nr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rajztanfolyam2",
+            "certificate_hash": "5dbfa245f857cf54a9d5414ba9473ed2f0a889bc"
+          }
+        },
+        {
+          "client_id": "558772611727-ei4vrr3g9627b828u0541uhom3ssuf70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ECXkcjUAK3isWz8ku5aMfq0Fj89ddys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558772611727-ei4vrr3g9627b828u0541uhom3ssuf70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
